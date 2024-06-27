@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Odiy Nur Rokhim\\OneDrive - student.trunojoyo.ac.id\\Documents\\AJK\\Visual Studio\\EmguCVSimpleCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0014AD40-BF07-41B1-9E27-F0074FC9B9B7}|EmguCVSimpleCode.csproj|c:\\users\\odiy nur rokhim\\onedrive - student.trunojoyo.ac.id\\documents\\ajk\\visual studio\\emgucvsimplecode\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{0014AD40-BF07-41B1-9E27-F0074FC9B9B7}|EmguCVSimpleCode.csproj|solutionrelative:mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0014AD40-BF07-41B1-9E27-F0074FC9B9B7}|EmguCVSimpleCode.csproj|c:\\users\\odiy nur rokhim\\onedrive - student.trunojoyo.ac.id\\documents\\ajk\\visual studio\\emgucvsimplecode\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0014AD40-BF07-41B1-9E27-F0074FC9B9B7}|EmguCVSimpleCode.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Odiy Nur Rokhim\\OneDrive - student.trunojoyo.ac.id\\Documents\\AJK\\Visual Studio\\EmguCVSimpleCode\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\Odiy Nur Rokhim\\OneDrive - student.trunojoyo.ac.id\\Documents\\AJK\\Visual Studio\\EmguCVSimpleCode\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T07:37:27.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Odiy Nur Rokhim\\OneDrive - student.trunojoyo.ac.id\\Documents\\AJK\\Visual Studio\\EmguCVSimpleCode\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Odiy Nur Rokhim\\OneDrive - student.trunojoyo.ac.id\\Documents\\AJK\\Visual Studio\\EmguCVSimpleCode\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:37:21.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
