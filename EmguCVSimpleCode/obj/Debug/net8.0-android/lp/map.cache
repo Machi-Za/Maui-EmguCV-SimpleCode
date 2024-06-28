@@ -161,3 +161,8 @@ Xamarin.Google.ErrorProne.Annotations.aar
 Emgu.CV.Platform.Maui.Android.dll
 Emgu.CV.Platform.Maui.UI.dll
 Emgu.CV.Platform.Maui.Android.aar
+SkiaSharp.dll
+SkiaSharp.Views.Android.dll
+SkiaSharp.Views.Maui.Controls.dll
+SkiaSharp.Views.Maui.Core.dll
+SkiaSharp.Views.Android.aar

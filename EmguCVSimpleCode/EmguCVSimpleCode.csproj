@@ -60,9 +60,10 @@
 		<PackageReference Include="Emgu.CV" Version="4.9.0.5494" />
 		<PackageReference Include="Emgu.CV.Bitmap" Version="4.9.0.5494" />
 		<PackageReference Include="Emgu.CV.runtime.maui.mini" Version="4.9.0.5494" />
-		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
-		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
+		<PackageReference Include="Microsoft.Maui.Controls" Version="8.0.61" />
+		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="8.0.61" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
+		<PackageReference Include="SkiaSharp.Views.Maui.Controls" Version="2.88.8" />
 	</ItemGroup>
 
 </Project>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Odiy Nur Rokhim\\OneDrive - student.trunojoyo.ac.id\\Documents\\AJK\\Visual Studio\\EmguCVSimpleCode\\EmguCVSimpleCode.csproj": {}
+    "C:\\Users\\Odiy Nur Rokhim\\OneDrive - student.trunojoyo.ac.id\\Documents\\GitHub\\Maui-EmgCV-SimpleCode\\EmguCVSimpleCode\\EmguCVSimpleCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Odiy Nur Rokhim\\OneDrive - student.trunojoyo.ac.id\\Documents\\AJK\\Visual Studio\\EmguCVSimpleCode\\EmguCVSimpleCode.csproj": {
+    "C:\\Users\\Odiy Nur Rokhim\\OneDrive - student.trunojoyo.ac.id\\Documents\\GitHub\\Maui-EmgCV-SimpleCode\\EmguCVSimpleCode\\EmguCVSimpleCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Odiy Nur Rokhim\\OneDrive - student.trunojoyo.ac.id\\Documents\\AJK\\Visual Studio\\EmguCVSimpleCode\\EmguCVSimpleCode.csproj",
+        "projectUniqueName": "C:\\Users\\Odiy Nur Rokhim\\OneDrive - student.trunojoyo.ac.id\\Documents\\GitHub\\Maui-EmgCV-SimpleCode\\EmguCVSimpleCode\\EmguCVSimpleCode.csproj",
         "projectName": "EmguCVSimpleCode",
-        "projectPath": "C:\\Users\\Odiy Nur Rokhim\\OneDrive - student.trunojoyo.ac.id\\Documents\\AJK\\Visual Studio\\EmguCVSimpleCode\\EmguCVSimpleCode.csproj",
+        "projectPath": "C:\\Users\\Odiy Nur Rokhim\\OneDrive - student.trunojoyo.ac.id\\Documents\\GitHub\\Maui-EmgCV-SimpleCode\\EmguCVSimpleCode\\EmguCVSimpleCode.csproj",
         "packagesPath": "C:\\Users\\Odiy Nur Rokhim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Odiy Nur Rokhim\\OneDrive - student.trunojoyo.ac.id\\Documents\\AJK\\Visual Studio\\EmguCVSimpleCode\\obj\\",
+        "outputPath": "C:\\Users\\Odiy Nur Rokhim\\OneDrive - student.trunojoyo.ac.id\\Documents\\GitHub\\Maui-EmgCV-SimpleCode\\EmguCVSimpleCode\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -84,17 +84,21 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.40, )"
+              "version": "[8.0.61, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.40, )"
+              "version": "[8.0.61, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.6, )",
               "autoReferenced": true
+            },
+            "SkiaSharp.Views.Maui.Controls": {
+              "target": "Package",
+              "version": "[2.88.8, )"
             }
           },
           "imports": [
@@ -139,17 +143,21 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.40, )"
+              "version": "[8.0.61, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.40, )"
+              "version": "[8.0.61, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.6, )",
               "autoReferenced": true
+            },
+            "SkiaSharp.Views.Maui.Controls": {
+              "target": "Package",
+              "version": "[2.88.8, )"
             }
           },
           "imports": [
@@ -194,17 +202,21 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.40, )"
+              "version": "[8.0.61, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.40, )"
+              "version": "[8.0.61, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.6, )",
               "autoReferenced": true
+            },
+            "SkiaSharp.Views.Maui.Controls": {
+              "target": "Package",
+              "version": "[2.88.8, )"
             }
           },
           "imports": [
@@ -250,11 +262,15 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.40, )"
+              "version": "[8.0.61, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.40, )"
+              "version": "[8.0.61, )"
+            },
+            "SkiaSharp.Views.Maui.Controls": {
+              "target": "Package",
+              "version": "[2.88.8, )"
             }
           },
           "imports": [

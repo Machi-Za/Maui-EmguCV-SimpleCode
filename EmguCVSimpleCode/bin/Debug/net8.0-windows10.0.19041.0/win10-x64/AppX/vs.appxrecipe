@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.emgucvsimplecode</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>75FD1BA510F77058D36EDA2A53B2C3A452481A01CF884C39677CE4E4BC58ABAF</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.emgucvsimplecode_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.emgucvsimplecode_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,268 +26,268 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-06-27T01:16:32.058</Modified>
+      <Modified>2024-06-28T05:43:43.942</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-06-27T01:13:00.106</Modified>
+      <Modified>2024-06-28T03:13:01.304</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\EmguCVSimpleCode.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\EmguCVSimpleCode.runtimeconfig.json">
       <PackagePath>EmguCVSimpleCode.runtimeconfig.json</PackagePath>
-      <Modified>2024-06-27T01:12:59.666</Modified>
+      <Modified>2024-06-28T03:12:58.845</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\EmguCVSimpleCode.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\EmguCVSimpleCode.dll">
       <PackagePath>EmguCVSimpleCode.dll</PackagePath>
-      <Modified>2024-06-27T01:16:31.503</Modified>
+      <Modified>2024-06-28T05:43:43.416</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>EmguCVSimpleCode.exe</PackagePath>
-      <Modified>2024-06-27T01:16:31.520</Modified>
+      <Modified>2024-06-28T05:43:43.432</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2024-06-26T07:32:15.117</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2024-06-26T07:32:55.318</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2024-06-26T07:32:55.352</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2024-06-26T07:32:55.404</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2024-06-26T07:32:55.490</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2024-06-26T07:32:55.789</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2024-06-26T07:32:15.102</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2024-06-26T07:32:15.106</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-06-26T07:32:58.143</Modified>
+      <Modified>2024-06-27T02:34:53.215</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.131</Modified>
+      <Modified>2024-06-27T02:34:53.136</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.130</Modified>
+      <Modified>2024-06-27T02:34:53.129</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.130</Modified>
+      <Modified>2024-06-27T02:34:53.129</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.130</Modified>
+      <Modified>2024-06-27T02:34:53.126</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.130</Modified>
+      <Modified>2024-06-27T02:34:53.120</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.139</Modified>
+      <Modified>2024-06-27T02:34:53.179</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.139</Modified>
+      <Modified>2024-06-27T02:34:53.175</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.138</Modified>
+      <Modified>2024-06-27T02:34:53.169</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.139</Modified>
+      <Modified>2024-06-27T02:34:53.175</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.138</Modified>
+      <Modified>2024-06-27T02:34:53.174</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.140</Modified>
+      <Modified>2024-06-27T02:34:53.189</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.140</Modified>
+      <Modified>2024-06-27T02:34:53.189</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.139</Modified>
+      <Modified>2024-06-27T02:34:53.179</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.140</Modified>
+      <Modified>2024-06-27T02:34:53.184</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.139</Modified>
+      <Modified>2024-06-27T02:34:53.184</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.143</Modified>
+      <Modified>2024-06-27T02:34:53.215</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.142</Modified>
+      <Modified>2024-06-27T02:34:53.214</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.142</Modified>
+      <Modified>2024-06-27T02:34:53.209</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.142</Modified>
+      <Modified>2024-06-27T02:34:53.209</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.142</Modified>
+      <Modified>2024-06-27T02:34:53.206</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.142</Modified>
+      <Modified>2024-06-27T02:34:53.204</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.141</Modified>
+      <Modified>2024-06-27T02:34:53.199</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.141</Modified>
+      <Modified>2024-06-27T02:34:53.196</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.141</Modified>
+      <Modified>2024-06-27T02:34:53.199</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.141</Modified>
+      <Modified>2024-06-27T02:34:53.199</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.135</Modified>
+      <Modified>2024-06-27T02:34:53.152</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.134</Modified>
+      <Modified>2024-06-27T02:34:53.152</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.134</Modified>
+      <Modified>2024-06-27T02:34:53.152</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.133</Modified>
+      <Modified>2024-06-27T02:34:53.149</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.133</Modified>
+      <Modified>2024-06-27T02:34:53.143</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.137</Modified>
+      <Modified>2024-06-27T02:34:53.163</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.135</Modified>
+      <Modified>2024-06-27T02:34:53.159</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.135</Modified>
+      <Modified>2024-06-27T02:34:53.159</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.135</Modified>
+      <Modified>2024-06-27T02:34:53.157</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.135</Modified>
+      <Modified>2024-06-27T02:34:53.152</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.138</Modified>
+      <Modified>2024-06-27T02:34:53.169</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.138</Modified>
+      <Modified>2024-06-27T02:34:53.169</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.138</Modified>
+      <Modified>2024-06-27T02:34:53.163</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.137</Modified>
+      <Modified>2024-06-27T02:34:53.163</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.137</Modified>
+      <Modified>2024-06-27T02:34:53.163</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.132</Modified>
+      <Modified>2024-06-27T02:34:53.143</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.131</Modified>
+      <Modified>2024-06-27T02:34:53.143</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.131</Modified>
+      <Modified>2024-06-27T02:34:53.143</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.131</Modified>
+      <Modified>2024-06-27T02:34:53.139</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.131</Modified>
+      <Modified>2024-06-27T02:34:53.139</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.145</Modified>
+      <Modified>2024-06-27T02:34:53.120</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.145</Modified>
+      <Modified>2024-06-27T02:34:53.120</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.143</Modified>
+      <Modified>2024-06-27T02:34:53.119</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.143</Modified>
+      <Modified>2024-06-27T02:34:53.115</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-06-26T07:32:58.143</Modified>
+      <Modified>2024-06-27T02:34:53.115</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\AJK\Visual Studio\EmguCVSimpleCode\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\EmguCVSimpleCode.deps.json">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\OneDrive - student.trunojoyo.ac.id\Documents\GitHub\Maui-EmgCV-SimpleCode\EmguCVSimpleCode\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\EmguCVSimpleCode.deps.json">
       <PackagePath>EmguCVSimpleCode.deps.json</PackagePath>
-      <Modified>2024-06-27T01:12:59.485</Modified>
+      <Modified>2024-06-28T03:12:58.005</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -357,33 +357,33 @@
       <PackagePath>Microsoft.Graphics.Canvas.Interop.dll</PackagePath>
       <Modified>2024-03-11T15:36:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.compatibility\8.0.40\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.compatibility\8.0.61\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.dll">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.dll</PackagePath>
-      <Modified>2024-05-13T18:30:16.000</Modified>
+      <Modified>2024-06-24T01:33:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.dll">
       <PackagePath>Microsoft.Maui.Controls.dll</PackagePath>
-      <Modified>2024-05-13T18:28:12.000</Modified>
+      <Modified>2024-06-24T01:31:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.xaml\8.0.40\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.xaml\8.0.61\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Xaml.dll">
       <PackagePath>Microsoft.Maui.Controls.Xaml.dll</PackagePath>
-      <Modified>2024-05-13T18:28:40.000</Modified>
+      <Modified>2024-06-24T01:31:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.core\8.0.40\lib\net8.0-windows10.0.19041\Microsoft.Maui.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.core\8.0.61\lib\net8.0-windows10.0.19041\Microsoft.Maui.dll">
       <PackagePath>Microsoft.Maui.dll</PackagePath>
-      <Modified>2024-05-13T18:28:08.000</Modified>
+      <Modified>2024-06-24T01:32:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.essentials\8.0.40\lib\net8.0-windows10.0.19041\Microsoft.Maui.Essentials.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.essentials\8.0.61\lib\net8.0-windows10.0.19041\Microsoft.Maui.Essentials.dll">
       <PackagePath>Microsoft.Maui.Essentials.dll</PackagePath>
-      <Modified>2024-05-13T18:30:22.000</Modified>
+      <Modified>2024-06-24T01:33:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.graphics\8.0.40\lib\net8.0-windows10.0.19041\Microsoft.Maui.Graphics.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.graphics\8.0.61\lib\net8.0-windows10.0.19041\Microsoft.Maui.Graphics.dll">
       <PackagePath>Microsoft.Maui.Graphics.dll</PackagePath>
-      <Modified>2024-05-13T18:28:50.000</Modified>
+      <Modified>2024-06-24T01:32:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.graphics.win2d.winui.desktop\8.0.40\lib\net8.0-windows10.0.19041\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.graphics.win2d.winui.desktop\8.0.61\lib\net8.0-windows10.0.19041\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll">
       <PackagePath>Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll</PackagePath>
-      <Modified>2024-05-13T18:30:44.000</Modified>
+      <Modified>2024-06-24T01:33:38.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.win32.systemevents\8.0.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll">
       <PackagePath>Microsoft.Win32.SystemEvents.dll</PackagePath>
@@ -449,6 +449,22 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2024-03-11T10:57:44.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\skiasharp\2.88.8\lib\net6.0\SkiaSharp.dll">
+      <PackagePath>SkiaSharp.dll</PackagePath>
+      <Modified>2024-04-09T17:24:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\skiasharp.views.maui.controls\2.88.8\lib\net6.0-windows10.0.18362.0\SkiaSharp.Views.Maui.Controls.dll">
+      <PackagePath>SkiaSharp.Views.Maui.Controls.dll</PackagePath>
+      <Modified>2024-04-09T17:25:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\skiasharp.views.maui.core\2.88.8\lib\net6.0-windows10.0.18362.0\SkiaSharp.Views.Maui.Core.dll">
+      <PackagePath>SkiaSharp.Views.Maui.Core.dll</PackagePath>
+      <Modified>2024-04-09T17:24:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\skiasharp.views.winui\2.88.8\lib\net6.0-windows10.0.19041.0\SkiaSharp.Views.Windows.dll">
+      <PackagePath>SkiaSharp.Views.Windows.dll</PackagePath>
+      <Modified>2024-04-09T17:24:42.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\system.drawing.common\8.0.1\lib\net8.0\System.Drawing.Common.dll">
       <PackagePath>System.Drawing.Common.dll</PackagePath>
       <Modified>2023-11-30T19:32:32.000</Modified>
@@ -457,141 +473,141 @@
       <PackagePath>System.Runtime.InteropServices.WindowsRuntime.dll</PackagePath>
       <Modified>2016-11-05T04:56:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:40.000</Modified>
+      <Modified>2024-06-24T01:32:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\ca\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\ca\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ca\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:10.000</Modified>
+      <Modified>2024-06-24T01:32:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\cs\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\cs\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>cs\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:12.000</Modified>
+      <Modified>2024-06-24T01:32:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\da\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\da\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>da\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:10.000</Modified>
+      <Modified>2024-06-24T01:31:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\de\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\de\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>de\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:44.000</Modified>
+      <Modified>2024-06-24T01:31:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\el\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\el\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>el\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:36.000</Modified>
+      <Modified>2024-06-24T01:31:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\es\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\es\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>es\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:42.000</Modified>
+      <Modified>2024-06-24T01:31:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\fi\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\fi\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>fi\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:36.000</Modified>
+      <Modified>2024-06-24T01:31:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\fr\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\fr\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>fr\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:20.000</Modified>
+      <Modified>2024-06-24T01:31:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\he\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\he\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>he\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:29:12.000</Modified>
+      <Modified>2024-06-24T01:32:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\hi\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\hi\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>hi\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:44.000</Modified>
+      <Modified>2024-06-24T01:32:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\hr\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\hr\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>hr\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:50.000</Modified>
+      <Modified>2024-06-24T01:32:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\hu\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\hu\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>hu\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:50.000</Modified>
+      <Modified>2024-06-24T01:31:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\id\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\id\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>id\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:50.000</Modified>
+      <Modified>2024-06-24T01:32:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\it\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\it\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>it\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:20.000</Modified>
+      <Modified>2024-06-24T01:31:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\ja\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\ja\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ja\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:50.000</Modified>
+      <Modified>2024-06-24T01:32:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\ko\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\ko\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ko\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:46.000</Modified>
+      <Modified>2024-06-24T01:31:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\ms\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\ms\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ms\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:20.000</Modified>
+      <Modified>2024-06-24T01:31:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\nb\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\nb\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>nb\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:50.000</Modified>
+      <Modified>2024-06-24T01:32:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\nl\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\nl\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>nl\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:50.000</Modified>
+      <Modified>2024-06-24T01:31:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\pl\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\pl\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>pl\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:20.000</Modified>
+      <Modified>2024-06-24T01:31:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\pt-BR\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\pt-BR\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>pt-BR\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:42.000</Modified>
+      <Modified>2024-06-24T01:32:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\pt\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\pt\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>pt\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:42.000</Modified>
+      <Modified>2024-06-24T01:31:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\ro\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\ro\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ro\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:42.000</Modified>
+      <Modified>2024-06-24T01:31:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\ru\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\ru\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ru\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:18.000</Modified>
+      <Modified>2024-06-24T01:31:50.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\sk\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\sk\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>sk\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:42.000</Modified>
+      <Modified>2024-06-24T01:31:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\sv\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\sv\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>sv\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:16.000</Modified>
+      <Modified>2024-06-24T01:31:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\th\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\th\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>th\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:46.000</Modified>
+      <Modified>2024-06-24T01:31:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\tr\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\tr\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>tr\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:16.000</Modified>
+      <Modified>2024-06-24T01:31:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\uk\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\uk\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>uk\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:27:52.000</Modified>
+      <Modified>2024-06-24T01:31:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\vi\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\vi\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>vi\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:40.000</Modified>
+      <Modified>2024-06-24T01:31:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\zh-HK\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\zh-HK\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>zh-HK\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:40.000</Modified>
+      <Modified>2024-06-24T01:31:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\zh-Hans\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\zh-Hans\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>zh-Hans\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:18.000</Modified>
+      <Modified>2024-06-24T01:31:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\zh-Hant\Microsoft.Maui.Controls.resources.dll">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\zh-Hant\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>zh-Hant\Microsoft.Maui.Controls.resources.dll</PackagePath>
-      <Modified>2024-05-13T18:28:38.000</Modified>
+      <Modified>2024-06-24T01:32:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\emgu.cv.runtime.mini.windows\4.9.0.5494\runtimes\win-x64\native\cvextern.dll">
       <PackagePath>cvextern.dll</PackagePath>
@@ -641,17 +657,21 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2024-03-08T18:44:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.compatibility\8.0.40\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\skiasharp.nativeassets.win32\2.88.8\runtimes\win-x64\native\libSkiaSharp.dll">
+      <PackagePath>libSkiaSharp.dll</PackagePath>
+      <Modified>2024-04-09T17:24:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.compatibility\8.0.61\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
-      <Modified>2024-05-13T18:12:44.000</Modified>
+      <Modified>2024-06-24T01:18:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.pri">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.pri">
       <PackagePath>Microsoft.Maui.Controls.pri</PackagePath>
-      <Modified>2024-05-13T18:12:12.000</Modified>
+      <Modified>2024-06-24T01:16:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.core\8.0.40\lib\net8.0-windows10.0.19041\Microsoft.Maui.pri">
+    <AppxPackagedFile Include="C:\Users\Odiy Nur Rokhim\.nuget\packages\microsoft.maui.core\8.0.61\lib\net8.0-windows10.0.19041\Microsoft.Maui.pri">
       <PackagePath>Microsoft.Maui.pri</PackagePath>
-      <Modified>2024-05-13T18:11:50.000</Modified>
+      <Modified>2024-06-24T01:16:18.000</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
